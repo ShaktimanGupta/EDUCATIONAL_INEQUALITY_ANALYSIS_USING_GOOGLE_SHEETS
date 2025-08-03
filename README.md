@@ -25,4 +25,4 @@ This project is a comprehensive **interactive dashboard** built entirely in **Go
 - Workarounds for design and visualization limitations
 
 ## 📎 View Live Dashboard
-👉 [Click here to view the published]()
+https://docs.google.com/spreadsheets/d/e/2PACX-1vRGJyn00Qe7cI-pH4SmeC4T2pBaKUUUP0JufJou0zyWHFgpLN73B03OgGsJrOdPV29m2Sjg_1PEkQsv/pubhtml?gid=310994603&single=true
